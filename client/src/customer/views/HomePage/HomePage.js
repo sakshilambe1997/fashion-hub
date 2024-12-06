@@ -5,11 +5,16 @@ import HomeSectionCarousel from '../../components/HomeSectionCarousel/HomeSectio
 function HomePage() {
   return (
     <>
-    <div>
+    <div className=''>
       <MainCarousel/>
     </div>
 
-    <div>
+    <div className='space-y-4 py-7 flex flex-col justify-center'>
+       <HomeSectionCarousel/>
+       <HomeSectionCarousel/>
+       <HomeSectionCarousel/>
+       <HomeSectionCarousel/>
+       <HomeSectionCarousel/>
        <HomeSectionCarousel/>
     </div>
     </>

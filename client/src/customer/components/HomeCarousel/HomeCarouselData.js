@@ -1,6 +1,6 @@
 const HomeCarouselData = [
     {
-        image:"https://img.freepik.com/free-photo/young-stylish-beautiful-woman-blue-dress-summer-fashion-trend-vacation-garden-tropical-hotel-terrace-smiling_285396-3862.jpg",
+        image:"https://img.freepik.com/free-psd/fashion-catalogue-template-design_23-2151066862.jpg",
        
     },
 
