@@ -1,5 +1,6 @@
 import React from 'react'
 import MainCarousel from '../../components/HomeCarousel/MainCarousel'
+import HomeSectionCarousel from '../../components/HomeSectionCarousel/HomeSectionCarousel'
 
 function HomePage() {
   return (
@@ -9,8 +10,7 @@ function HomePage() {
     </div>
 
     <div>
-        Other section
-        
+       <HomeSectionCarousel/>
     </div>
     </>
   )

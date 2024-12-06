@@ -5,14 +5,15 @@ import HomeCarouselData from './HomeCarouselData';
 
 const responsive = {
     0: { items: 1 },
-    568: { items: 1 },
-    1024: { items: 2 },
+    720: { items: 1 },
+    1024: { items: 1 },
 };
 
 
 const MainCarousel = () => {
 
-    const items = HomeCarouselData.map(((item)=><img className='cursor-pointer h-3/6 w-screen' src={item.image} alt=''/>
+    const items = HomeCarouselData.map(((item)=><img className='cursor-pointer h-96
+   w-4/5 block mx-auto object-cover object-top' src={item.image} alt=''/>
 ))
 
     return (<AliceCarousel
