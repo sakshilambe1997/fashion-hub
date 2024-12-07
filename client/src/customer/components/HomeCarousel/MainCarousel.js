@@ -22,7 +22,7 @@ const MainCarousel = () => {
         responsive={responsive}
        disableButtonsControls
        autoPlay
-       autoPlayInterval={1000}
+       autoPlayInterval={1500}
        infinite
     />)
     };

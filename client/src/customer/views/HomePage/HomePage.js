@@ -12,10 +12,7 @@ function HomePage() {
     <div className='space-y-4 py-7 flex flex-col justify-center'>
        <HomeSectionCarousel/>
        <HomeSectionCarousel/>
-       <HomeSectionCarousel/>
-       <HomeSectionCarousel/>
-       <HomeSectionCarousel/>
-       <HomeSectionCarousel/>
+       
     </div>
     </>
   )
