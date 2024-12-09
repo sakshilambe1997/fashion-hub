@@ -1,6 +1,6 @@
  const WOMENS_KURTAS = [
   {
-      "imgUrl": "https://tse2.mm.bing.net/th?id=OIP.XgQ1IxpOQoltrqwmTTjjOgHaJ4&pid=Api&P=0&h=180",
+      "imgUrl": "https://m.media-amazon.com/images/I/71H+VDxyQbL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "Libas",
       "title": "Libas Women's Cotton Printed Anarkali Kurta",
       "color": "Blue",
@@ -18,7 +18,7 @@
       "description": "Crafted with lightweight cotton, this kurta is adorned with intricate floral prints."
   },
   {
-      "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.ZwlmGt8iEn_tnURb7MchpAHaJ4&pid=Api&P=0&h=180",
+      "imgUrl": "https://m.media-amazon.com/images/I/614q+AnKcML._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "BIBA",
       "title": "BIBA Women's Chanderi Silk Kurta",
       "color": "Green",
@@ -36,7 +36,7 @@
       "description": "This kurta is made from premium Chanderi silk and features an elegant design perfect for festive occasions."
   },
   {
-      "imgUrl": "https://sp.yimg.com/ib/th?id=OPAC.GD93TkuaTapy0Q474C474&o=5&pid=21.1&w=160&h=105",
+      "imgUrl": "https://m.media-amazon.com/images/I/71dHQK9LDUL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "Aurelia",
       "title": "Aurelia Women's Straight Fit Cotton Kurta",
       "color": "Pink",
@@ -54,7 +54,7 @@
       "description": "A straight-fit kurta made with breathable cotton fabric, ideal for everyday wear."
   },
   {
-      "imgUrl": "https://sp.yimg.com/ib/th?id=OPAC.agkuI7DbXacBoA474C474&o=5&pid=21.1&w=160&h=105",
+      "imgUrl": "https://m.media-amazon.com/images/I/715Vhb1GWOL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "W for Women",
       "title": "W Women's Rayon Printed Kurta",
       "color": "Maroon",
@@ -72,7 +72,7 @@
       "description": "Featuring contemporary prints, this rayon kurta is designed for modern comfort and style."
   },
   {
-      "imgUrl": "https://sp.yimg.com/ib/th?id=OPAC.Y64IIK5FGW8SPQ474C474&o=5&pid=21.1&w=160&h=105",
+      "imgUrl": "https://m.media-amazon.com/images/I/41Cc0GGFuaL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "Soch",
       "title": "Soch Women's Embroidered Cotton Kurta",
       "color": "White",
@@ -90,7 +90,7 @@
       "description": "A pristine white kurta with detailed embroidery, perfect for formal gatherings."
   },
   {
-      "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.AhacwddOeghDgGBX1UW-BQHaJ4&pid=Api&P=0&h=180",
+      "imgUrl": "https://m.media-amazon.com/images/I/618fCvUbhaL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "Indya",
       "title": "Indya Women's Georgette Flared Kurta",
       "color": "Black",
@@ -108,7 +108,7 @@
       "description": "Crafted in georgette fabric, this flared kurta is adorned with intricate sequins for a glamorous look."
   },
   {
-      "imgUrl": "https://sp.yimg.com/ib/th?id=OPAC.PIQ6BkeU2hRFhQ474C474&o=5&pid=21.1&w=160&h=105",
+      "imgUrl": "https://m.media-amazon.com/images/I/71LSFaU3ksL._SY879_.jpg",
       "brand": "Jaipur Kurti",
       "title": "Jaipur Kurti Women's Cotton Blend Kurta",
       "color": "Peach",
@@ -126,7 +126,7 @@
       "description": "A lightweight cotton blend kurta with a delicate peach hue, ideal for summer days."
   },
   {
-      "imgUrl": "https://sp.yimg.com/ib/th?id=OPAC.PHrSZ4XvbtE5gA474C474&o=5&pid=21.1&w=160&h=105",
+      "imgUrl": "https://m.media-amazon.com/images/I/71RF-OG+IPL._AC_UL480_FMwebp_QL65_.jpg",
       "brand": "Shree",
       "title": "Shree Women's Printed Anarkali Kurta",
       "color": "Red",

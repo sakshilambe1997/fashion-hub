@@ -1,0 +1,148 @@
+const WOMENS_LEHENGA = [
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/61UUk0JdLVL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "Generic",
+    title: "Women's New Pink Floral Embroidered Lehenga",
+    color: "Pink",
+    price: 2099,
+    discountPrice: 999,
+    discountPercent: 52,
+    size: [
+      { name: "S", quantity: 30 },
+      { name: "M", quantity: 25 },
+      { name: "L", quantity: 10 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/516inE6eCyL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "EthnicWear",
+    title: "Women's Maroon Embroidered Gota Pati Lehenga",
+    color: "Maroon",
+    price: 1799,
+    discountPrice: 849,
+    discountPercent: 53,
+    size: [
+      { name: "S", quantity: 20 },
+      { name: "M", quantity: 15 },
+      { name: "L", quantity: 10 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/416XBrV8-XL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "StyleAura",
+    title: "Women's Peach Heavy Embroidered Lehenga",
+    color: "Peach",
+    price: 1999,
+    discountPrice: 899,
+    discountPercent: 55,
+    size: [
+      { name: "S", quantity: 18 },
+      { name: "M", quantity: 20 },
+      { name: "L", quantity: 12 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/51DAjJ+Lw9L._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "TraditionPlus",
+    title: "Women's Yellow Silk Embroidered Lehenga",
+    color: "Yellow",
+    price: 1699,
+    discountPrice: 799,
+    discountPercent: 53,
+    size: [
+      { name: "S", quantity: 25 },
+      { name: "M", quantity: 20 },
+      { name: "L", quantity: 15 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/51zOZ5Rp-8L._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "ElegantWear",
+    title: "Women's Black Sequined Lehenga",
+    color: "Black",
+    price: 2499,
+    discountPrice: 1199,
+    discountPercent: 52,
+    size: [
+      { name: "S", quantity: 10 },
+      { name: "M", quantity: 15 },
+      { name: "L", quantity: 12 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/71evGRy5UHL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "VivaFashion",
+    title: "Women's Green Zari Work Lehenga",
+    color: "Green",
+    price: 1499,
+    discountPrice: 699,
+    discountPercent: 53,
+    size: [
+      { name: "S", quantity: 28 },
+      { name: "M", quantity: 24 },
+      { name: "L", quantity: 18 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/81M4TfnGepL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "RoyalThreads",
+    title: "Women's Blue Mirror Work Lehenga",
+    color: "Blue",
+    price: 2199,
+    discountPrice: 1099,
+    discountPercent: 50,
+    size: [
+      { name: "S", quantity: 15 },
+      { name: "M", quantity: 10 },
+      { name: "L", quantity: 8 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+  {
+    imgUrl:
+      "https://m.media-amazon.com/images/I/81uytDXLvjL._AC_UL480_FMwebp_QL65_.jpg",
+    brand: "FestiveCharm",
+    title: "Women's Purple Gota Patti Lehenga",
+    color: "Purple",
+    price: 1399,
+    discountPrice: 649,
+    discountPercent: 54,
+    size: [
+      { name: "S", quantity: 22 },
+      { name: "M", quantity: 18 },
+      { name: "L", quantity: 10 },
+    ],
+    topLevelCategory: "Women",
+    secondLevelCategory: "Clothing",
+    thirdLevelCategory: "Women's_Lehenga",
+  },
+];
+
+export default  WOMENS_LEHENGA

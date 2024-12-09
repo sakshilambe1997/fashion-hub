@@ -2,23 +2,23 @@ import React, { useState } from "react";
 import HomeSectionCard from "../HomeSectionCard/HomeSectionCard";
 import AliceCarousel from "react-alice-carousel";
 import KeyboardArrowLeftIcon from "@mui/icons-material/KeyboardArrowLeft";
-import WOMENS_KURTAS from "../../../Data/womensKurta";
+import WOMENS_KURTAS from "../../../Data/WomensKurta";
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 
-const HomeSectionCarousel = () => {
+const HomeSectionCarousel = ({data=[],sectionName}) => {
     const[activeIndex, setActivceIndex]=useState(0)
   
     const setPreview=()=>{
-      const lastElement = WOMENS_KURTAS[WOMENS_KURTAS.length-1]
-      WOMENS_KURTAS.pop();
-      WOMENS_KURTAS.unshift(lastElement)
+      const lastElement = data[data.length-1]
+      data.pop();
+      data.unshift(lastElement)
       setActivceIndex(activeIndex-1)
     }
 
     const setNext= ()=>{
-      const firstElement = WOMENS_KURTAS[0]
-      WOMENS_KURTAS.shift();
-      WOMENS_KURTAS.push(firstElement);
+      const firstElement = data[0]
+      data.shift();
+      data.push(firstElement);
       setActivceIndex(activeIndex+1)
     }
 
@@ -29,13 +29,14 @@ const HomeSectionCarousel = () => {
     1024: { items: 4 },
   };
 
-  const items = WOMENS_KURTAS.map((item,i) =><HomeSectionCard product ={item} />
+  const items = data.map((item,i) =><HomeSectionCard product ={item} />
   
   ) ;
 
   return (
-    <div className=" relative px-3 bg-slate-100 w-full items-center block mx-auto my-0 " >
-      <div className=" p-7">
+    <div className=" relative px-3 bg-slate-100 w-full block mx-auto my-0 " >
+      <h2 className="text-start text-2xl">{sectionName}</h2>
+      <div className=" p-7 ">
         <AliceCarousel
           items={items}
           responsive={responsive}
