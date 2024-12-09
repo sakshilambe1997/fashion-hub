@@ -40,7 +40,7 @@ const Footer = () => {
                       <text
                         fill="white"
                         font-family="Nunito-Bold, Nunito"
-                        font-size="512"
+                        font-size="480"
                         font-weight="bold"
                       >
                         <tspan x="654" y="518">
