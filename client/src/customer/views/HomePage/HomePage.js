@@ -4,12 +4,14 @@ import HomeSectionCarousel from '../../components/HomeSectionCarousel/HomeSectio
 import WOMENS_KURTAS from '../../../Data/WomensKurta'
 import WOMENS_LEHENGA from '../../../Data/WomensLehenga'
 
+
 function HomePage() {
   return (
     <>
     <div className=''>
       <MainCarousel/>
     </div>
+    
 
     <div className='space-y-4 py-7 flex flex-col justify-center'>
        <HomeSectionCarousel data={WOMENS_KURTAS} sectionName="Women's Kurta"/>
